@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "url": "https://www.ru.nl/services/campusfaciliteiten-gebouwen/ict/buiten-de-campus-werken/buiten-de-campus-toegang-tot-bestanden",
   "changelog": "✅ Inlogscherm met credential validatie\n✅ Automatisch mounten na inloggen\n🌐 eduVPN / Op locatie detectie\n🔢 Versienummer zichtbaar in header\n👋 Welkomstscherm bij opstarten\nℹ️ Informatie knop in header\n🖥️ TeamViewer QuickSupport ondersteuning\n🔔 Automatische update melding\n🔒 Wachtwoord nooit opgeslagen"
 }
