@@ -1,5 +1,5 @@
 {
   "version": "1.0",
   "url": "https://www.ru.nl/services/campusfaciliteiten-gebouwen/ict/buiten-de-campus-werken/buiten-de-campus-toegang-tot-bestanden",
-  "changelog": "✅ Inlogscherm met credential validatie\n✅ Automatisch mounten na inloggen\n🌐 eduVPN / Op locatie detectie\n🔢 Versienummer zichtbaar in header\n👋 Welkomstscherm bij opstarten\nℹ️ Informatie knop in header\n🖥️ TeamViewer QuickSupport ondersteuning\n🔔 Automatische update melding\n🔒 Wachtwoord nooit opgeslagen"
+  "changelog": "✨ Verbeterde animaties bij inloggen\n🔔 Shake animatie bij verkeerd wachtwoord\n🟢 Pulserende indicator bij ingelogde status\n⚙️ Instellingen paneel met taal, weergave en scrollbar\n🔍 Netwerk diagnostics\n🎨 Verbeterde UI met hover effecten\n🌐 Menubar icoon verandert van kleur\n⌨️ Tab toets navigatie tussen velden\n🔒 Caps Lock waarschuwing bij wachtwoord\n📊 Verbonden sinds tijdstip"
 }
