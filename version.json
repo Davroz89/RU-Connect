@@ -1,5 +1,5 @@
 {
   "version": "1.0",
   "url": "https://www.ru.nl/services/campusfaciliteiten-gebouwen/ict/buiten-de-campus-werken/buiten-de-campus-toegang-tot-bestanden",
-  "changelog": "✨ Verbeterde animaties bij inloggen\n🔔 Shake animatie bij verkeerd wachtwoord\n🟢 Pulserende indicator bij ingelogde status\n⚙️ Instellingen paneel met taal, weergave en scrollbar\n🔍 Netwerk diagnostics\n🎨 Verbeterde UI met hover effecten\n🌐 Menubar icoon verandert van kleur\n⌨️ Tab toets navigatie tussen velden\n🔒 Caps Lock waarschuwing bij wachtwoord\n📊 Verbonden sinds tijdstip"
+  "changelog": "🎨 Nieuwe rode header geïnspireerd op Windows versie\n🃏 Secties als kaarten met gekleurde accentstrepen\n✨ Fade-in animaties bij opstarten\n👤 Ingelogde gebruiker met avatar en volledige naam\n🟢 Menubar icoon verandert van kleur op basis van status\n⚙️ Instellingen met taal, weergave en welkomstscherm\n🔔 Shake animatie en geluid bij verkeerd wachtwoord\n⌨️ Tab navigatie en caps lock waarschuwing\n🔒 Lege staat bij netwerkschijven\n🍎 macOS update melding in Apparaat paneel\n🔄 Mounting animatie bij koppelen schijven"
 }
